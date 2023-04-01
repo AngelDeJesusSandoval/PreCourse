@@ -1,2 +1,1 @@
-# PreCourse
-Repositorio de prueba del Modulo N°2
+Este proyecto es una prueba
